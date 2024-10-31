@@ -1,6 +1,6 @@
 {
   "name": "@gabriel-prado-c/simple-storage-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple storage manager for web browsers!",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
