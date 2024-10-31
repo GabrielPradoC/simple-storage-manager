@@ -1,8 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES5",
-    "rootDir": "src",
-    "module": "ES2022",
+    "module": "NodeNext",
     "lib": ["ESNext", "DOM"],
     "declaration": true, 
     "removeComments": true,  
